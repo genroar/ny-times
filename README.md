@@ -14,7 +14,7 @@ Ensure you have Node.js (version 14 or later) and npm installed on your machine.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/nytimes-most-popular.git
+git clone https://github.com/genroar/ny-times
 cd nytimes-most-popular
 
 Install dependencies:
